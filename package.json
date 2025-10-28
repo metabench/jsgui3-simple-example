@@ -1,6 +1,6 @@
 {
   "name": "jsgui3-simple-example",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple example project using jsgui3",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "jsgui3-client": "^0.0.120",
-    "jsgui3-html": "^0.0.168",
+    "jsgui3-html": "^0.0.169",
     "jsgui3-server": "^0.0.138",
     "lang-tools": "^0.0.39"
   },

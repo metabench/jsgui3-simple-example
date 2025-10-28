@@ -20,7 +20,7 @@ const Active_HTML_Document = require('jsgui3-server/controls/Active_HTML_Documen
 // Usage of windows should be very easy on this level.
 
 
-class Demo_UI extends Control {
+class Demo_UI extends Active_HTML_Document {
     constructor(spec = {}) {
         spec.__type_name = 'demo_ui';
         super(spec);
